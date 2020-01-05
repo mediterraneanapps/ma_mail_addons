@@ -7,5 +7,5 @@
     "support": "mediterranean.apps@gmail.com",
     "depends": ["base", "mail"],
     "data": ["data.xml"],
-    'installable': False
+    'installable': True
 }
