@@ -30,7 +30,7 @@
     "uninstall_hook": None,
 
     "auto_install": False,
-    "installable": False,
+    "installable": True,
 
     "demo_title": "Mailgun",
     "demo_addons": [],
